@@ -1,0 +1,3 @@
+Measure_image_center_distance:
+
+- throw an error if the XM and YM columns do not exist
